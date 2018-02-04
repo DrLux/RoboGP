@@ -1,0 +1,11 @@
+testPush;
+6x9;
+F-Wyynn;F-Wnynn;P;F-Wnynn;P;F-Wnyyn;
+F-D32;F;B-O1-Iynn;F;E-O1-Iynn;F-Wnnyn;
+F-D42;F;B-O1-Iynn;F;E-O1-Iynn;F-Wnnyn;
+F-D52;F;B-O1-Iynn;F;E-O1-Iynn;F-Wnnyn;
+F-Ac1;F;B-O1-Iynn;F;E-O1-Iynn;F-Wnnyn;
+F-Ac2;F;B-O1-Iynn;F;E-O1-Iynn;F-Wnnyn;
+F-Au1;F;B-O1-Iynn;F;E-O1-Iynn;F-Wnnyn;
+F-D62;F;B-O1-Iynn;F-D22;E-O1-Iynn;F-Wnnyn;
+F;F;B-O1-Iynn;F-D12;E-O1-Iynn;F-Wnnyn;
